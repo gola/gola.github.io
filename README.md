@@ -1,2 +1,2 @@
 # gola.github.io
-Blog for Ethan Gola.
+Blog for Ethan Gola
